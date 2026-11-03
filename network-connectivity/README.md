@@ -28,3 +28,19 @@ Connectivity was restored. Documented the findings, corrective action, and verif
 - Windows command-line tools
 - Virtual machine network configuration
 - Help desk ticket documentation and closure
+
+## Screenshots
+
+### Disconnected Network
+![Network disconnected](<network disconnected.png>)
+
+### IP Configuration
+![IP configuration](<IP Configuration Screenshot.png>)
+
+### Ping Tests
+![Ping test](<Ping Test.png>)
+
+![Second ping test](<Ping Test 2.png>)
+
+### Website Access
+![Website access restored](<website test.png>)
